@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-RohlfsC
-version:            0.02
+version:            0.02_01
 abstract:           The great new Acme::RohlfsC!
 author:
     - Chris Rohlfs <chris@rohlfs.org>
